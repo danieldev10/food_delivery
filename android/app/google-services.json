@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "414626905280",
+    "firebase_url": "https://pizza-delivery-d93c8.firebaseio.com",
+    "project_id": "pizza-delivery-d93c8",
+    "storage_bucket": "pizza-delivery-d93c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414626905280:android:24d87a3b2437714921c125",
+        "android_client_info": {
+          "package_name": "com.manveer.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414626905280-vv210v49ifjqsrv866qo48q8adi9qai7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manveer.food_delivery",
+            "certificate_hash": "08717838e6ffa4dde00f6e14e55bf2b150b3053a"
+          }
+        },
+        {
+          "client_id": "414626905280-8h5s8k551qij370gnagira27rvu6plf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnIQtwJKeoWfDhWqxpbeF_ZdNyZ_CWxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414626905280-8h5s8k551qij370gnagira27rvu6plf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414626905280-ojrselde5cslqk9ilo9vpefpbihnfc7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "freaktemplate.pizzahub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414626905280:android:648963b86475974321c125",
+        "android_client_info": {
+          "package_name": "com.template.foodexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414626905280-8h5s8k551qij370gnagira27rvu6plf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnIQtwJKeoWfDhWqxpbeF_ZdNyZ_CWxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414626905280-8h5s8k551qij370gnagira27rvu6plf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414626905280-ojrselde5cslqk9ilo9vpefpbihnfc7n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "freaktemplate.pizzahub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
